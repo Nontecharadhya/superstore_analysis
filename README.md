@@ -1,4 +1,4 @@
-# superstore_Data _analysis
+# Superstore_Data _analysis
 Project Structure:
 
 Data Preprocessing: Cleanse, transform, and preprocess the raw data to ensure data quality and prepare it for analysis.
